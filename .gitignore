@@ -1,0 +1,5 @@
+/roles
+/tasks
+/.terraform
+/terraform.tfstate.backup
+/.terraform.lock.hcl
